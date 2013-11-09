@@ -1,0 +1,46 @@
+{
+  "name": "generator-ng-jade-less",
+  "version": "0.0.1",
+  "description": "Angular/LESScss/Jade generator for yeoman",
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "less",
+    "jade",
+    "ng-jade-less",
+    "css"
+  ],
+  "homepage": "https://github.com/therebelrobot/generator-ng-jade-less",
+  "bugs": "https://github.com/therebelrobot/generator-ng-jade-less/issues",
+  "author": {
+    "name": "Trent Oswald",
+    "email": "trentoswald@therebelrobot.com",
+    "url": "https://github.com/therebelrobot"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/therebelrobot/generator-ng-jade-less.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.13.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
