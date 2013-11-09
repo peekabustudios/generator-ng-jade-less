@@ -1,6 +1,6 @@
 # generator-ng-jade-less [![Build Status](https://secure.travis-ci.org/therebelrobot/generator-ng-jade-less.png?branch=master)](https://travis-ci.org/therebelrobot/generator-ng-jade-less)
 
-*version 0.1.0*
+*version 0.0.1*
 
 Angular/LESScss/Jade generator for [Yeoman](http://yeoman.io).
 
