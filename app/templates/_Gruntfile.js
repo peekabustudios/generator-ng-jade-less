@@ -8,7 +8,7 @@ module.exports = function(grunt) {
     project: {
       javascript: {
         ours: ['source/js/app.js', 'source/js/**/*.js'],
-        lib:  ['source/bower_components/jquery/jquery.min.js', 'source/bower_components/angular/angular.min.js', 'source/bower_components/angular/angular-route.min.js', 'source/bower_components/**/*.min.js']
+        lib:  ['source/bower_components/jquery/jquery.min.js', 'source/bower_components/angular/angular.min.js', 'source/bower_components/angular-route/angular-route.min.js', 'source/bower_components/**/*.min.js']
       },
       secret: grunt.file.readJSON('./secret.json'),
       pkg: grunt.file.readJSON('./package.json')
